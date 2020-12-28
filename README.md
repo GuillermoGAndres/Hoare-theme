@@ -12,6 +12,8 @@ Clonar el repositorio en tu carpeta de themes y agregar en tu init.el
 (load-theme 'hoare t)
 ~~~
 
+![Dorsey-personalizado](./img/DorseyPersonalizadoDroidSansMono3.png)
+
 ### Referencias
 
 <https://www.computer.org/profiles/tony-hoare>

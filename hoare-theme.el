@@ -1,9 +1,7 @@
-
 ;; ---------------------------
 ;; Hoare: A blue dark color theme
 ;; Author: Andres Urbano Guillermo Gerardo
 ;; https://github.com/GuillermoGAndres/
-;; Background del theme era : (dorsey-darker-background "#212121")
 ;; ----------------------------
 
 (unless (>= emacs-major-version 24)
@@ -80,7 +78,7 @@
    '(company-preview-common ((t (:inherit company-preview :foreground "wheat"))))
    '(company-tooltip-common ((t (:foreground "#F0DFAF")))) ;Color de las letras en coincidencia en pop
    '(company-tooltip-selection ((t (:background "#7B7B7B")))) ;Color de seleccion resaltado.
-   '(company-tooltip ((t (:background "#1D1F21" :foreground "#C5C8C6")))) ;Color fondo y letra
+   '(company-tooltip ((t (:background "#13182D" :foreground "#C5C8C6")))) ;Color fondo y letra
    '(company-scrollbar-bg ((t (:background "#282A2E")))) ;Color de scrollbar
    '(company-scrollbar-fg ((t (:background "#373B41"))))
    '(company-tooltip-annotation ((t (:foreground "#F0DFAF"))))
